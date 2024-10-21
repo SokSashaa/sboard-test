@@ -1,0 +1,6 @@
+[submodule "sboard-front"]
+	path = sboard-front
+	url = https://github.com/SokSashaa/sboard-front.git
+[submodule "sboard-back"]
+	path = sboard-back
+	url = https://github.com/SokSashaa/sboard-back.git
